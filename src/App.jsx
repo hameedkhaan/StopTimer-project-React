@@ -8,12 +8,12 @@ function App() {
       <Player />
       <div id="challenges">
        
-       <TimeChallenge title={"Biggner"} targetTime={1} />
-       <TimeChallenge title={"Pro"} targetTime={5} />
-       <TimeChallenge title={"Advnaced"} targetTime={10} />
-       <TimeChallenge title={"Level-A"} targetTime={30} />
-       <TimeChallenge title={"Level-B"} targetTime={60} />
-       <TimeChallenge title={"Level-C"} targetTime={90} />
+       <TimeChallenge title={"Easy"} targetTime={1} />
+       <TimeChallenge title={"Medium"} targetTime={5} />
+       <TimeChallenge title={"Hard-Core"} targetTime={10} />
+       <TimeChallenge title={"Harder"} targetTime={30} />
+       <TimeChallenge title={"Insane"} targetTime={60} />
+       <TimeChallenge title={"Extreme"} targetTime={90} />
 
       </div>
     </>
